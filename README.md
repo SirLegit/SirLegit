@@ -1,7 +1,9 @@
 - 👋 Hi, I’m @SirLegit
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning ... html/css
-- You can add me in discord id="sirlegit12"
+- HTML ✅
+- CSS (Halfway through)
+- Javascript ❌
 
 
 <!---
