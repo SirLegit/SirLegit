@@ -1,9 +1,10 @@
 - 👋 Hi, I’m @SirLegit
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning web development 
+- 🌱 I’m currently learning C
 - HTML ✅
-- CSS (Halfway through)
-- Javascript ❌
+- CSS ✅
+- Javascript ✅
+- React js ❌
 
 
 <!---
